@@ -1,7 +1,11 @@
-# Naveen Lanka
+# Hi, I'm Rasika Srimal
 
 <p align="center">
-  Building with code, learning in public, and improving one project at a time.
+  Full-stack developer and data/ML engineer building products where code, data, and design need to work together.
+</p>
+
+<p align="center">
+  I enjoy turning ideas into production-ready systems, from API design and model pipelines to visual dashboards and fast, polished web apps.
 </p>
 
 <p align="center">
@@ -9,7 +13,7 @@
     <img
       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naveenlanka2000&theme=radical"
       alt="Naveen Lanka GitHub stats summary"
-      width="780"
+      width="680"
     />
   </a>
 </p>
@@ -19,18 +23,31 @@
     <img
       src="https://streak-stats.demolab.com?user=naveenlanka2000&theme=radical&hide_border=true&background=141321&ring=FE428E&fire=FE428E&currStreakLabel=F8D847&currStreakNum=F8D847&sideNums=FE428E&sideLabels=FE428E&dates=A9FEF7&stroke=F8D847"
       alt="Naveen Lanka contribution streak"
-      width="780"
+      width="680"
     />
   </a>
 </p>
 
-## About Me
+## What I Build
 
-- Developer interested in web apps, automation, and practical software engineering
-- Comfortable with Python, JavaScript, Java, C++, React, Node.js, MySQL, MongoDB, and Docker
-- Open to collaboration on useful tools, clean UI work, and problem-solving projects
+- Data-driven applications that combine clean UX with practical engineering
+- Web platforms with reliable APIs, responsive frontends, and maintainable architecture
+- ML-powered features that move from experimentation to real product use
 
-## Connect
+## Snapshot
 
-- GitHub: [@naveenlanka2000](https://github.com/naveenlanka2000)
-- LinkedIn: [naveenlanka2000](https://www.linkedin.com/in/naveenlanka2000)
+- Location: Sri Lanka
+- Focus: Full-stack engineering and data/ML applications
+- Approach: Build end-to-end, ship cleanly, and optimize for real-world use
+
+## Toolbox
+
+- Frontend: Next.js, React, TypeScript
+- Backend and Data: Python, Java, SQL
+- Strengths: Dashboards, APIs, product-focused engineering, and data workflows
+
+## Currently Exploring
+
+- LLM fine-tuning and applied AI workflows
+- LangChain-based tooling and agent patterns
+- Cloud-native architectures for scalable deployments
