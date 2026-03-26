@@ -15,7 +15,7 @@
   <a href="https://github.com/naveenlanka2000">
     <img src="https://img.shields.io/badge/GitHub-naveenlanka2000-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
   </a>
-  <a href="https://portfolio-naveenlanka.me">
+  <a href="https://naveenlanka.me">
     <img src="https://img.shields.io/badge/Portfolio-portfolio--naveenlanka.me-fe428e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio badge" />
   </a>
 </p>
