@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/GitHub-naveenlanka2000-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
   </a>
   <a href="https://naveenlanka.me">
-    <img src="https://img.shields.io/badge/Portfolio-portfolio--naveenlanka.me-fe428e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio badge" />
+    <img src="https://img.shields.io/badge/Portfolio-naveenlanka.me-fe428e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio badge" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 | &#128301; | Building dashboards, APIs, and data-driven web apps |
 | &#127793; | Currently learning LLM fine-tuning, LangChain, and cloud-native architecture |
 | &#129309; | Open to collaborating on useful products and smart developer tooling |
-| &#127760; | Portfolio: [portfolio-naveenlanka.me](https://portfolio-naveenlanka.me) |
+| &#127760; | Portfolio: [portfolio-naveenlanka.me](https://naveenlanka.me) |
 
 ## &#129520; Tech Toolbox
 
