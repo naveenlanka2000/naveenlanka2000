@@ -30,7 +30,7 @@
 | &#128301; | Building dashboards, APIs, and data-driven web apps |
 | &#127793; | Currently learning LLM fine-tuning, LangChain, and cloud-native architecture |
 | &#129309; | Open to collaborating on useful products and smart developer tooling |
-| &#127760; | Portfolio: [portfolio-naveenlanka.me](https://naveenlanka.me) |
+| &#127760; | Portfolio: [naveenlanka.me](https://naveenlanka.me) |
 
 ## &#129520; Tech Toolbox
 
