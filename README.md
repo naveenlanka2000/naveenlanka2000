@@ -15,8 +15,9 @@
   <a href="https://github.com/naveenlanka2000">
     <img src="https://img.shields.io/badge/GitHub-naveenlanka2000-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=naveenlanka2000&style=for-the-badge&color=fe428e" alt="Profile views badge" />
-  <img src="https://img.shields.io/github/followers/naveenlanka2000?style=for-the-badge&logo=github&color=0891b2&labelColor=0f172a" alt="GitHub followers badge" />
+  <a href="https://portfolio-naveenlanka.me">
+    <img src="https://img.shields.io/badge/Portfolio-portfolio--naveenlanka.me-fe428e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio badge" />
+  </a>
 </p>
 
 ## &#128640; About Me
@@ -29,6 +30,7 @@
 | &#128301; | Building dashboards, APIs, and data-driven web apps |
 | &#127793; | Currently learning LLM fine-tuning, LangChain, and cloud-native architecture |
 | &#129309; | Open to collaborating on useful products and smart developer tooling |
+| &#127760; | Portfolio: [portfolio-naveenlanka.me](https://portfolio-naveenlanka.me) |
 
 ## &#129520; Tech Toolbox
 
