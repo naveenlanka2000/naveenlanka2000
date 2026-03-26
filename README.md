@@ -1,41 +1,36 @@
-# Hi there, I'm Naveen Lanka! 👋
+# Naveen Lanka
 
-Welcome to my GitHub profile!
+<p align="center">
+  Building with code, learning in public, and improving one project at a time.
+</p>
 
----
+<p align="center">
+  <a href="https://github.com/naveenlanka2000">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naveenlanka2000&theme=radical"
+      alt="Naveen Lanka GitHub stats summary"
+      width="780"
+    />
+  </a>
+</p>
 
-## 🚀 About Me
+<p align="center">
+  <a href="https://github.com/naveenlanka2000">
+    <img
+      src="https://streak-stats.demolab.com?user=naveenlanka2000&theme=radical&hide_border=true&background=141321&ring=FE428E&fire=FE428E&currStreakLabel=F8D847&currStreakNum=F8D847&sideNums=FE428E&sideLabels=FE428E&dates=A9FEF7&stroke=F8D847"
+      alt="Naveen Lanka contribution streak"
+      width="780"
+    />
+  </a>
+</p>
 
-- 💻 Passionate developer and technology enthusiast
-- 🌱 Always learning new things in software and open source
-- 🤝 Love collaborating on interesting projects
+## About Me
 
-## 🛠️ Skills & Technologies
+- Developer interested in web apps, automation, and practical software engineering
+- Comfortable with Python, JavaScript, Java, C++, React, Node.js, MySQL, MongoDB, and Docker
+- Open to collaboration on useful tools, clean UI work, and problem-solving projects
 
-- Languages: Python, JavaScript, Java, C++
-- Web: HTML, CSS, React, Node.js
-- Databases: MySQL, MongoDB
-- Tools: Git, VS Code, Docker
+## Connect
 
-## 📈 GitHub Stats
-
-![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=naveenlanka2000&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveenlanka2000&layout=compact&theme=radical)
-
-## 🌟 Featured Projects
-
-- [Project 1](https://github.com/naveenlanka2000/project1) — Short description of your project
-- [Project 2](https://github.com/naveenlanka2000/project2) — Short description of your project
-
-## 📫 How to reach me
-
-- [LinkedIn](https://www.linkedin.com/in/naveenlanka2000)
-- Email: naveenlanka2000@example.com
-
-## ⚡ Fun Fact
-
-I love solving coding challenges and exploring new tech trends!
-
----
-
-_Thanks for visiting my profile!_
+- GitHub: [@naveenlanka2000](https://github.com/naveenlanka2000)
+- LinkedIn: [naveenlanka2000](https://www.linkedin.com/in/naveenlanka2000)
