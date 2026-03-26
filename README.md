@@ -1,4 +1,4 @@
-# Hi, I'm Rasika Srimal
+# Hi, I'm Naveen Lanka
 
 <p align="center">
   Full-stack developer and data/ML engineer building products where code, data, and design need to work together.
